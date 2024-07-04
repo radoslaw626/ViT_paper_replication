@@ -1,5 +1,6 @@
 Replication of the following paper using Pytorch:
 ![image](https://github.com/radoslaw626/ViT_paper_replication/assets/50368353/a7c4a5da-dafd-4dc0-a7e2-5d910c3c627f)
+https://arxiv.org/pdf/2010.11929
 
 The notebook contains an analysis of each equation that the paper covers. Each equation is represented as a block, where I test
 the shapes of inputs and outputs, and how the data changes.
